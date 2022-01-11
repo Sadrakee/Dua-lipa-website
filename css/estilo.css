@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Licorice&display=swap');
+
+
+
+.logo {
+    width: 125px;
+    height: 80px;
+   
+
+}
+
+.container-fluid {
+    background-color: rgb(0, 0, 0);
+    display: flex;
+    
+    }
+
+div {
+    position: relative;
+    top: -9px; 
+   
+    }
+
+
+.img-fluid {
+    display: inline-block;
+    position:relative ; 
+    bottom: 30px;
+    width: 100%;
+    
+    
+}
+
+h1 {
+    font-family: 'Licorice', cursive; 
+    font-style:  italic;
+    color: rgb(243, 243, 243);
+    margin: 520px;
+    position: relative; bottom: 450px;
+}
